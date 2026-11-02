@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Orders.2025.Zulu.Backend/Orders.2025.Zulu.Backend.csproj" />
+  <Project Path="Orders.2025.Zulu.Frontend/Orders.2025.Zulu.Frontend.csproj" />
+  <Project Path="Orders.2025.Zulu.Shared/Orders.2025.Zulu.Shared.csproj" />
+</Solution>
